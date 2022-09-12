@@ -26,7 +26,7 @@
 		"prosemirror-inputrules": "^1.2.0",
 		"prosemirror-keymap": "^1.2.0",
 		"prosemirror-model": "^1.17.0",
-		"prosemirror-schema-list": "^1.2.0",
+		"prosemirror-schema-list": "^1.2.2",
 		"prosemirror-view": "^1.24.1",
 		"vue": "^2.7.4",
 		"vuedraggable": "^2.24.3",
