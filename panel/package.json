@@ -51,7 +51,7 @@
 		"prettier": "^2.6.2",
 		"vite": "^2.9.13",
 		"vite-plugin-rewrite-all": "^0.1.2",
-		"vitest": "^0.13.0",
+		"vitest": "^0.25.2",
 		"vue-docgen-api": "^4.47.0",
 		"vue-template-compiler": "^2.7.4"
 	},
